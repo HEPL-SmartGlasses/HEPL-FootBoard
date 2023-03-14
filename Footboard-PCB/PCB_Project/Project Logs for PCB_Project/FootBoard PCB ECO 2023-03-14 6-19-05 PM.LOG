@@ -1,0 +1,131 @@
+Removed Member From Class: ClassName=FootBoard Member=C?
+Change Component Designator: OldDesignator=C1 NewDesignator=C4
+Change Component Designator: OldDesignator=C2 NewDesignator=C5
+Change Component Designator: OldDesignator=C4 NewDesignator=C2
+Change Component Designator: OldDesignator=C5 NewDesignator=C6
+Change Component Designator: OldDesignator=C6 NewDesignator=C7
+Change Component Designator: OldDesignator=C7 NewDesignator=C8
+Change Component Designator: OldDesignator=C8 NewDesignator=C9
+Change Component Designator: OldDesignator=C9 NewDesignator=C10
+Change Component Designator: OldDesignator=C10 NewDesignator=C11
+Change Component Designator: OldDesignator=C11 NewDesignator=C12
+Change Component Designator: OldDesignator=C12 NewDesignator=C13
+Change Component Designator: OldDesignator=C13 NewDesignator=C15
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Add Component: Footprint Not Found CAPC1608X90X40NL10T20
+Add Component: Footprint Not Found SON127P800X600X80-9N-D
+Add Component: Footprint Not Found XB24CDMPIT001
+Add Component: Footprint Not Found 155060BS75300
+Add Component: Footprint Not Found RESC1608X55X25ML10T15
+Add Component: Footprint Not Found ESWI-TL3342F160QG_V
+Add Component: Footprint Not Found Testpoint
+Add Component: Footprint Not Found Testpoint
+Add Component: Footprint Not Found Testpoint
+Add Component: Footprint Not Found Testpoint
+Add Component: Footprint Not Found Testpoint
+Add Component: Footprint Not Found Testpoint
+Add Component: Footprint Not Found Testpoint
+Add Component: Footprint Not Found Testpoint
+Add Component: Footprint Not Found Testpoint
+Add Component: Footprint Not Found Testpoint
+Add Component: Footprint Not Found Testpoint
+Add Component: Footprint Not Found Testpoint
+Add Component: Footprint Not Found Testpoint
+Add Component: Footprint Not Found Testpoint
+Add Component: Footprint Not Found Testpoint
+Add Component: Footprint Not Found Testpoint
+Add Component: Footprint Not Found Testpoint
+Add Component: Footprint Not Found Testpoint
+Add Component: Footprint Not Found Testpoint
+Add Component: Footprint Not Found Testpoint
+Add Component: Footprint Not Found Testpoint
+Add Pin To Net: Unknown Pin: Pin C16-1
+Add Pin To Net: Unknown Pin: Pin C16-2
+Add Pin To Net: Unknown Pin: Pin IC3-1
+Add Pin To Net: Unknown Pin: Pin IC3-2
+Add Pin To Net: Unknown Pin: Pin IC3-3
+Add Pin To Net: Unknown Pin: Pin IC3-4
+Add Pin To Net: Unknown Pin: Pin IC3-5
+Add Pin To Net: Unknown Pin: Pin IC3-6
+Add Pin To Net: Unknown Pin: Pin IC3-7
+Add Pin To Net: Unknown Pin: Pin IC3-8
+Add Pin To Net: Unknown Pin: Pin IC3-9
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-2
+Add Pin To Net: Unknown Pin: Pin J1-3
+Add Pin To Net: Unknown Pin: Pin J1-4
+Add Pin To Net: Unknown Pin: Pin J1-5
+Add Pin To Net: Unknown Pin: Pin J1-6
+Add Pin To Net: Unknown Pin: Pin J1-7
+Add Pin To Net: Unknown Pin: Pin J1-8
+Add Pin To Net: Unknown Pin: Pin J1-9
+Add Pin To Net: Unknown Pin: Pin J1-10
+Add Pin To Net: Unknown Pin: Pin J1-11
+Add Pin To Net: Unknown Pin: Pin J1-12
+Add Pin To Net: Unknown Pin: Pin J1-13
+Add Pin To Net: Unknown Pin: Pin J1-14
+Add Pin To Net: Unknown Pin: Pin J1-15
+Add Pin To Net: Unknown Pin: Pin J1-16
+Add Pin To Net: Unknown Pin: Pin J1-17
+Add Pin To Net: Unknown Pin: Pin J1-18
+Add Pin To Net: Unknown Pin: Pin J1-19
+Add Pin To Net: Unknown Pin: Pin J1-20
+Add Pin To Net: Unknown Pin: Pin LED1-1
+Add Pin To Net: Unknown Pin: Pin LED1-2
+Add Pin To Net: Unknown Pin: Pin R8-1
+Add Pin To Net: Unknown Pin: Pin R8-2
+Add Pin To Net: Unknown Pin: Pin SW1-1
+Add Pin To Net: Unknown Pin: Pin SW1-2
+Add Pin To Net: Unknown Pin: Pin SW1-3
+Add Pin To Net: Unknown Pin: Pin SW1-4
+Add Pin To Net: Unknown Pin: Pin TP1-1
+Add Pin To Net: Unknown Pin: Pin TP2-1
+Add Pin To Net: Unknown Pin: Pin TP3-1
+Add Pin To Net: Unknown Pin: Pin TP4-1
+Add Pin To Net: Unknown Pin: Pin TP5-1
+Add Pin To Net: Unknown Pin: Pin TP6-1
+Add Pin To Net: Unknown Pin: Pin TP7-1
+Add Pin To Net: Unknown Pin: Pin TP8-1
+Add Pin To Net: Unknown Pin: Pin TP9-1
+Add Pin To Net: Unknown Pin: Pin TP10-1
+Add Pin To Net: Unknown Pin: Pin TP11-1
+Add Pin To Net: Unknown Pin: Pin TP12-1
+Add Pin To Net: Unknown Pin: Pin TP13-1
+Add Pin To Net: Unknown Pin: Pin TP14-1
+Add Pin To Net: Unknown Pin: Pin TP15-1
+Add Pin To Net: Unknown Pin: Pin TP16-1
+Add Pin To Net: Unknown Pin: Pin TP17-1
+Add Pin To Net: Unknown Pin: Pin TP18-1
+Add Pin To Net: Unknown Pin: Pin TP19-1
+Add Pin To Net: Unknown Pin: Pin TP20-1
+Add Pin To Net: Unknown Pin: Pin TP21-1
+Change Net Name : Old Net Name=NetC11_2 New Net Name=NetC12_2
+Added Member To Class: ClassName=FootBoard Member=Component C15 100nf
+Add Class Member: Failed to add class member : Component C16 Capacitor 100 nF +/-10% 50 V 0603
+Add Class Member: Failed to add class member : Component IC3 W25N01GVZEIG_TR
+Add Class Member: Failed to add class member : Component J1
+Add Class Member: Failed to add class member : Component LED1 Blue - 0603
+Add Class Member: Failed to add class member : Component R8 Resistor 10k +/-1% 0603 100 mW
+Add Class Member: Failed to add class member : Component SW1 TL3342F160QG
+Add Class Member: Failed to add class member : Component TP1
+Add Class Member: Failed to add class member : Component TP2
+Add Class Member: Failed to add class member : Component TP3
+Add Class Member: Failed to add class member : Component TP4
+Add Class Member: Failed to add class member : Component TP5
+Add Class Member: Failed to add class member : Component TP6
+Add Class Member: Failed to add class member : Component TP7
+Add Class Member: Failed to add class member : Component TP8
+Add Class Member: Failed to add class member : Component TP9
+Add Class Member: Failed to add class member : Component TP10
+Add Class Member: Failed to add class member : Component TP11
+Add Class Member: Failed to add class member : Component TP12
+Add Class Member: Failed to add class member : Component TP13
+Add Class Member: Failed to add class member : Component TP14
+Add Class Member: Failed to add class member : Component TP15
+Add Class Member: Failed to add class member : Component TP16
+Add Class Member: Failed to add class member : Component TP17
+Add Class Member: Failed to add class member : Component TP18
+Add Class Member: Failed to add class member : Component TP19
+Add Class Member: Failed to add class member : Component TP20
+Add Class Member: Failed to add class member : Component TP21
+Added Room: Name=FootBoard
