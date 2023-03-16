@@ -1,0 +1,49 @@
+Removed Pin From Net: NetName=3v3 Pin=C2-2
+Removed Pin From Net: NetName=3v3 Pin=P1-1
+Removed Pin From Net: NetName=3v3 Pin=U1-1
+Added Component: Designator=J1(XB24CDMPIT001)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.digi.com/pdf/ds_s2c-xbeedigimesh-24.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "3.556mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "DIGI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "XB24CDMPIT-001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "888-XB24CDMPIT-001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/DIGI/XB24CDMPIT-001?qs=XmMZR4xR0DA19znDagFynA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=LED1(Type 5mm)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/pbs/datasheet/7448042001.pdfhttp://katalog.we-online.de/pbs/datasheet/7448042001.pdfhttp://katalog.we-online.de/pbs/datasheet/7448042001.pdfhttp://katalog.we-online.de/pbs/datasheet/151053GS03000.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitting color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wuerth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "Type 5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "151053GS03000"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3v3 Pin=J1-1
+Added Pin To Net: NetName=XBEE_PR Pin=J1-2
+Added Pin To Net: NetName=XBEE_PR Pin=J1-3
+Added Pin To Net: NetName=SPI3_MISO Pin=J1-4
+Added Pin To Net: NetName=XBEE_PR Pin=J1-5
+Added Pin To Net: NetName=XBEE_PR Pin=J1-6
+Added Pin To Net: NetName=XBEE_PR Pin=J1-7
+Added Pin To Net: NetName=XBEE_PR Pin=J1-8
+Added Pin To Net: NetName=XBEE_PR Pin=J1-9
+Added Pin To Net: NetName=GND Pin=J1-10
+Added Pin To Net: NetName=SPI3_MOSI Pin=J1-11
+Added Pin To Net: NetName=XBEE_PR Pin=J1-12
+Added Pin To Net: NetName=XBEE_PR Pin=J1-13
+Added Pin To Net: NetName=XBEE_PR Pin=J1-14
+Added Pin To Net: NetName=XBEE_PR Pin=J1-15
+Added Pin To Net: NetName=XBEE_PR Pin=J1-16
+Added Pin To Net: NetName=XBEE_CS Pin=J1-17
+Added Pin To Net: NetName=SPI3_CLK Pin=J1-18
+Added Pin To Net: NetName=SPI3_ATTN Pin=J1-19
+Added Pin To Net: NetName=XBEE_PR Pin=J1-20
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=3v3 Pin=LED1-2
+Added Pin To Net: NetName=3V7 Pin=C2-2
+Added Pin To Net: NetName=3V7 Pin=P1-1
+Added Net: Name=3V7
+Added Member To Class: ClassName=FootBoard Member=Component J1 XB24CDMPIT-001
+Added Member To Class: ClassName=FootBoard Member=Component LED1 151053GS03000
+Added Room: Name=FootBoard

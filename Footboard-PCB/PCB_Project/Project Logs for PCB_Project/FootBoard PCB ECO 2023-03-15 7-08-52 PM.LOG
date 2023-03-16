@@ -1,0 +1,88 @@
+Added Component: Designator=C16(CAPC1608X90X35LL15T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX Interconnect / Elco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0603YC104MAT4A"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found XB24CDMPIT001
+Add Component: Footprint Not Found 155060BS75300
+Added Component: Designator=R8(FP-MCR03-IPC_C)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.022inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "0.063inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Type"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "MCR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.031inch"; VariantName = "[No Variations]"
+Added Component: Designator=SW1(ESWI-TL3342F160QG_V)
+Add component (AddParameter): Name = "Capacitance"; Value = "4.7 uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case\Package"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.e-switch.ch/en/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://spec_sheets.e-switch.com/specs/P010632.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. I, 12/2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "11 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "4-Pin Surface Mount Device, Body 5 x 5 mm, Pitch 6.3 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "TL3342F160QG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0 inch"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=NRST Pin=C16-2
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-2
+Add Pin To Net: Unknown Pin: Pin J1-3
+Add Pin To Net: Unknown Pin: Pin J1-4
+Add Pin To Net: Unknown Pin: Pin J1-5
+Add Pin To Net: Unknown Pin: Pin J1-6
+Add Pin To Net: Unknown Pin: Pin J1-7
+Add Pin To Net: Unknown Pin: Pin J1-8
+Add Pin To Net: Unknown Pin: Pin J1-9
+Add Pin To Net: Unknown Pin: Pin J1-10
+Add Pin To Net: Unknown Pin: Pin J1-11
+Add Pin To Net: Unknown Pin: Pin J1-12
+Add Pin To Net: Unknown Pin: Pin J1-13
+Add Pin To Net: Unknown Pin: Pin J1-14
+Add Pin To Net: Unknown Pin: Pin J1-15
+Add Pin To Net: Unknown Pin: Pin J1-16
+Add Pin To Net: Unknown Pin: Pin J1-17
+Add Pin To Net: Unknown Pin: Pin J1-18
+Add Pin To Net: Unknown Pin: Pin J1-19
+Add Pin To Net: Unknown Pin: Pin J1-20
+Add Pin To Net: Unknown Pin: Pin LED1-1
+Add Pin To Net: Unknown Pin: Pin LED1-2
+Added Pin To Net: NetName=NRST Pin=R8-1
+Added Pin To Net: NetName=3v3 Pin=R8-2
+Added Pin To Net: NetName=NRST Pin=SW1-1
+Added Pin To Net: NetName=NRST Pin=SW1-2
+Added Pin To Net: NetName=GND Pin=SW1-3
+Added Pin To Net: NetName=GND Pin=SW1-4
+Added Member To Class: ClassName=FootBoard Member=Component C16 0603YC104MAT4A
+Add Class Member: Failed to add class member : Component J1
+Add Class Member: Failed to add class member : Component LED1 Blue - 0603
+Added Member To Class: ClassName=FootBoard Member=Component R8 MCR03ERTF1002
+Added Member To Class: ClassName=FootBoard Member=Component SW1 TL3342F160QG
