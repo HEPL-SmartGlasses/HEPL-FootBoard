@@ -1,0 +1,21 @@
+Change Component Designator: OldDesignator=3V3 NewDesignator=1
+Change Component Designator: OldDesignator=DS? NewDesignator=DS1
+Change Component Designator: OldDesignator=FLASH_CS NewDesignator=FLASH_CS1
+Change Component Designator: OldDesignator=I2C_SDA NewDesignator=I1
+Change Component Designator: OldDesignator=IMU1_CS NewDesignator=IMU2
+Change Component Designator: OldDesignator=IMU1_INT1 NewDesignator=IMU5
+Change Component Designator: OldDesignator=IMU1_INT2 NewDesignator=IMU4
+Change Component Designator: OldDesignator=IMU2_CS NewDesignator=IMU3
+Change Component Designator: OldDesignator=IMU2_INT1 NewDesignator=IMU6
+Change Component Designator: OldDesignator=IMU2_INT2 NewDesignator=IMU1
+Change Component Designator: OldDesignator=SPI1_CLK NewDesignator=SPI2
+Change Component Designator: OldDesignator=SPI1_MISO NewDesignator=SPI3
+Change Component Designator: OldDesignator=SPI1_MOSI NewDesignator=SPI4
+Change Component Designator: OldDesignator=SPI2_CLK NewDesignator=SPI6
+Change Component Designator: OldDesignator=SPI2_MISO NewDesignator=SPI7
+Change Component Designator: OldDesignator=SPI2_MOSI NewDesignator=SPI8
+Change Component Designator: OldDesignator=SPI3_CLK NewDesignator=SPI5
+Change Component Designator: OldDesignator=SPI3_MISO NewDesignator=SPI9
+Change Component Designator: OldDesignator=SPI3_MOSI NewDesignator=SPI1
+Change Component Designator: OldDesignator=XBEE_CS NewDesignator=XBEE_CS1
+Change Net Name : Old Net Name=NetDS?_2 New Net Name=NetDS1_2

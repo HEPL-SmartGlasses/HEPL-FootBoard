@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=MAG_INT Pin=MAG_INT1-1
+Change Component Designator: OldDesignator=1 NewDesignator=3V3
+Change Component Designator: OldDesignator=FLASH_CS1 NewDesignator=FLASH_CS
+Change Component Designator: OldDesignator=I1 NewDesignator=I2C_SDA
+Change Component Designator: OldDesignator=IMU1 NewDesignator=IMU1_CS
+Change Component Designator: OldDesignator=IMU2 NewDesignator=IMU2_CS
+Change Component Designator: OldDesignator=IMU3 NewDesignator=IMU1_INT2
+Change Component Designator: OldDesignator=IMU4 NewDesignator=IMU1_INT1
+Change Component Designator: OldDesignator=IMU5 NewDesignator=IMU2_INT1
+Change Component Designator: OldDesignator=IMU6 NewDesignator=IMU2_INT2
+Change Component Designator: OldDesignator=SPI1 NewDesignator=SPI1_CLK
+Change Component Designator: OldDesignator=SPI2 NewDesignator=SPI1_MISO
+Change Component Designator: OldDesignator=SPI3 NewDesignator=SPI1_MOSI
+Change Component Designator: OldDesignator=SPI4 NewDesignator=SPI2_CLK
+Change Component Designator: OldDesignator=SPI5 NewDesignator=SPI2_MISO
+Change Component Designator: OldDesignator=SPI6 NewDesignator=SPI2_MOSI
+Change Component Designator: OldDesignator=SPI7 NewDesignator=SPI3_CLK
+Change Component Designator: OldDesignator=SPI8 NewDesignator=SPI3_MISO
+Change Component Designator: OldDesignator=SPI9 NewDesignator=SPI3_MOSI
+Change Component Designator: OldDesignator=XBEE_CS1 NewDesignator=XBEE_CS
+Added Pin To Net: NetName=MAG_INT1 Pin=MAG_INT1-1
+Added Net: Name=MAG_INT1
+Added Member To Class: ClassName=FootBoard Member=Component R3 0 0402
+Added Member To Class: ClassName=FootBoard Member=Component R4 0 0402
+Added Member To Class: ClassName=FootBoard Member=Component R5 0 0402
+Added Member To Class: ClassName=FootBoard Member=Component R6 0 0402
+Added Member To Class: ClassName=FootBoard Member=Component R7 0 0402
+Added Member To Class: ClassName=FootBoard Member=Component R8 0 0402
+Added Member To Class: ClassName=FootBoard Member=Component R9 0 0402
+Added Member To Class: ClassName=FootBoard Member=Component R10 30k - 0603

@@ -1,0 +1,32 @@
+Remove Pin=R?-1 From Net=3v3
+Remove Pin=R?-1 From Net=3v3
+Remove Pin=R?-1 From Net=3v3
+Remove Pin=R?-1 From Net=SPI1_MISO
+Remove Pin=R?-1 From Net=SPI1_MISO
+Remove Pin=R?-1 From Net=SPI1_MISO
+Remove Pin=R?-2 From Net=SPI1_MOSI
+Remove Pin=R?-2 From Net=SPI1_MOSI
+Remove Pin=R?-2 From Net=SPI1_MOSI
+Remove Pin=U1-3 From Net=3V7
+Change Component Designator: OldDesignator=TP1 NewDesignator=3V3
+Change Component Designator: OldDesignator=TP2 NewDesignator=GND
+Change Component Designator: OldDesignator=TP3 NewDesignator=I2C_SDA
+Change Component Designator: OldDesignator=TP4 NewDesignator=MAG_INT
+Change Component Designator: OldDesignator=TP5 NewDesignator=SPI1_CLK
+Change Component Designator: OldDesignator=TP6 NewDesignator=SPI1_MISO
+Change Component Designator: OldDesignator=TP7 NewDesignator=SPI1_MOSI
+Change Component Designator: OldDesignator=TP8 NewDesignator=IMU1_CS
+Change Component Designator: OldDesignator=TP9 NewDesignator=IMU2_CS
+Change Component Designator: OldDesignator=TP10 NewDesignator=SPI2_CLK
+Change Component Designator: OldDesignator=TP11 NewDesignator=SPI2_MISO
+Change Component Designator: OldDesignator=TP12 NewDesignator=SPI2_MOSI
+Change Component Designator: OldDesignator=TP13 NewDesignator=FLASH_CS
+Change Component Designator: OldDesignator=TP14 NewDesignator=SPI3_CLK
+Change Component Designator: OldDesignator=TP15 NewDesignator=SPI3_MISO
+Change Component Designator: OldDesignator=TP16 NewDesignator=SPI3_MOSI
+Change Component Designator: OldDesignator=TP17 NewDesignator=XBEE_CS
+Change Component Designator: OldDesignator=TP18 NewDesignator=IMU1_INT2
+Change Component Designator: OldDesignator=TP19 NewDesignator=IMU1_INT1
+Change Component Designator: OldDesignator=TP20 NewDesignator=IMU2_INT1
+Change Component Designator: OldDesignator=TP21 NewDesignator=IMU2_INT2
+Add Pin To Net: Pin=U1-3 Old Net=3V7 New Net=3V3
