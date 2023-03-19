@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=SPI2_MOSI Pin=SPI2_MISO-1
+Removed Pin From Net: NetName=SPI2_MISO Pin=SPI2_MOSI-1
+Added Pin To Net: NetName=SPI2_MISO Pin=SPI2_MISO-1
+Added Pin To Net: NetName=SPI2_MOSI Pin=SPI2_MOSI-1
+Change Net Name : Old Net Name=3V7 New Net Name=BAT
