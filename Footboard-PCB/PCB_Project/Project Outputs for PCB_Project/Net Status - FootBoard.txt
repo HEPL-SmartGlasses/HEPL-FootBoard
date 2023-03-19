@@ -1,0 +1,61 @@
+Net Status Report
+Filename     : C:\Users\evanm\Documents\Michigan\eecs373\Project\HEPL-FootBoard\Footboard-PCB\PCB_Project\FootBoard.PcbDoc
+Date         : 3/19/2023
+Time         : 5:54:33 PM
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    3V7, Signal Layers Only, 394.103mils
+    3v3, Signal Layers Only, 2667.964mils
+    FLASH_CS, Signal Layers Only, 1403.346mils
+    GND, Signal Layers Only, 3659.35mils
+    I2C_SDA, Signal Layers Only, 1405.645mils
+    IMU1_CS, Signal Layers Only, 1916.487mils
+    IMU1_INT1, Signal Layers Only, 1805.601mils
+    IMU1_INT2, Signal Layers Only, 2297.832mils
+    IMU2_CS, Signal Layers Only, 1592.466mils
+    IMU2_INT1, Signal Layers Only, 1652.65mils
+    IMU2_INT2, Signal Layers Only, 2369.951mils
+    IMU3_CS, Signal Layers Only, 1773.305mils
+    IMU3_INT1, Signal Layers Only, 2746.765mils
+    IMU3_INT2, Signal Layers Only, 2085.929mils
+    IMU_CLK, Signal Layers Only, 1478.24mils
+    MAG_INT, Signal Layers Only, 1658.646mils
+    MAG_INT_TRG, Signal Layers Only, 1756.015mils
+    NRST, Signal Layers Only, 2162.01mils
+    NetC11_2, Signal Layers Only, 393.754mils
+    NetC12_2, Signal Layers Only, 509.125mils
+    NetC13_2, Signal Layers Only, 487.736mils
+    NetC15_2, Signal Layers Only, 486.179mils
+    NetDS1_2, Signal Layers Only, 65.865mils
+    NetIC3_3, Signal Layers Only, 100.126mils
+    NetIC3_7, Signal Layers Only, 79.638mils
+    NetIMU1_1, Signal Layers Only, 83.105mils
+    NetIMU1_14, Signal Layers Only, 273.177mils
+    NetIMU1_2, Signal Layers Only, 110.834mils
+    NetIMU1_3, Signal Layers Only, 115.851mils
+    NetIMU2_1, Signal Layers Only, 89.635mils
+    NetIMU2_14, Signal Layers Only, 161.615mils
+    NetIMU2_2, Signal Layers Only, 246.777mils
+    NetIMU2_3, Signal Layers Only, 244.975mils
+    NetIMU3_1, Signal Layers Only, 85.125mils
+    NetIMU3_14, Signal Layers Only, 167.106mils
+    NetIMU3_2, Signal Layers Only, 238.772mils
+    NetIMU3_3, Signal Layers Only, 241.705mils
+    OSC_IN, Signal Layers Only, 448.093mils
+    OSC_OUT, Signal Layers Only, 550.163mils
+    SPI1_CLK, Signal Layers Only, 3612.539mils
+    SPI1_MISO, Signal Layers Only, 3342.508mils
+    SPI1_MOSI, Signal Layers Only, 3199.331mils
+    SPI2_CLK, Signal Layers Only, 1788.004mils
+    SPI2_MISO, Signal Layers Only, 1596.872mils
+    SPI2_MOSI, Signal Layers Only, 2359.069mils
+    SPI3_ATTN, Signal Layers Only, 2346.245mils
+    SPI3_CLK, Signal Layers Only, 3342.577mils
+    SPI3_MISO, Signal Layers Only, 2829.476mils
+    SPI3_MOSI, Signal Layers Only, 3241.962mils
+    SWCLK, Signal Layers Only, 818.654mils
+    SWDIO, Signal Layers Only, 801.34mils
+    XBEE_CS, Signal Layers Only, 3436.462mils
+    XBEE_PR, Signal Layers Only, 2268.257mils
+count : 53

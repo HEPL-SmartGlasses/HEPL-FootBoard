@@ -1,0 +1,15 @@
+Change Component Designator: OldDesignator=U2 NewDesignator=IMU3
+Change Component Designator: OldDesignator=U3 NewDesignator=IMU1
+Change Component Designator: OldDesignator=U4 NewDesignator=IMU2
+Change Net Name : Old Net Name=NetR5_1 New Net Name=NetIMU3_3
+Change Net Name : Old Net Name=NetR6_2 New Net Name=NetIMU3_1
+Change Net Name : Old Net Name=NetR7_1 New Net Name=NetIMU3_14
+Change Net Name : Old Net Name=NetR8_1 New Net Name=NetIMU3_2
+Change Net Name : Old Net Name=NetR10_1 New Net Name=NetIMU1_3
+Change Net Name : Old Net Name=NetR13_2 New Net Name=NetIMU1_1
+Change Net Name : Old Net Name=NetR14_1 New Net Name=NetIMU1_14
+Change Net Name : Old Net Name=NetR16_1 New Net Name=NetIMU1_2
+Change Net Name : Old Net Name=NetR19_1 New Net Name=NetIMU2_3
+Change Net Name : Old Net Name=NetR20_2 New Net Name=NetIMU2_1
+Change Net Name : Old Net Name=NetR21_1 New Net Name=NetIMU2_14
+Change Net Name : Old Net Name=NetR22_1 New Net Name=NetIMU2_2

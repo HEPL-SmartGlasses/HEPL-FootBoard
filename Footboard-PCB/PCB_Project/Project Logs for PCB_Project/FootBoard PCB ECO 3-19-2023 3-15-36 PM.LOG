@@ -1,0 +1,50 @@
+Change Component Footprint: Designator=R28 Old Footprint=FP-PNM0402-MFG New Footprint=RESC1608X55X30LL15T15
+Change Component Comment : Designator=R28 Old Comment=220 Ohms - 0402 New Comment=330 0603
+Change Component Comment : Designator=U3 Old Comment=IMU1 New Comment=LSM6DSMTR
+Change Component Comment : Designator=U4 Old Comment=IMU2 New Comment=LSM6DSMTR
+Change Component Comment : Designator=U2 Old Comment=IMU3 New Comment=LSM6DSMTR
+Change Component Designator: OldDesignator=LED NewDesignator=DS1
+Change Component Designator: OldDesignator=XBEE_CS NewDesignator=XBEE_CS1
+Change Managed Component Library Link : Designator=R28 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=59298C4E-AE1A-4A1F-8061-21F253D94AB4 New ItemGUID=81F84BFC-97A3-454F-87CF-6EE81748FB79 Old RevisionGUID=6AC92C54-CDED-42DD-A06B-6C4123E6BBC6 New RevisionGUID=A6877783-A948-4550-AD29-5CA15543A78F
+Change component parameters: Designator = "R28" ("R28"); Footprint = "FP-PNM0402-MFG"; UniqueID = "\IUAVUARG" ("\IUAVUARG")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C86.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Finish"; Value = "Gold"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Copper"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "500 mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "Apr-15"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.45 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Pitch"; Value = "1.1 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "13.7 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mating Cycles"; Value = "10000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85 degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-25 degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "1500"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "2-Pin Surface Mount Device, Body 1.6 x 0.85 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "10 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "1.45 mm"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=FootBoard Member=Component C1 10nf
+Added Member To Class: ClassName=FootBoard Member=Component J1 XB24CDMPIT-001
+Added Member To Class: ClassName=FootBoard Member=Component R2 30k - 0603
+Added Member To Class: ClassName=FootBoard Member=Component R5 0 0402
+Added Member To Class: ClassName=FootBoard Member=Component R8 0 0402
+Added Member To Class: ClassName=FootBoard Member=Component R9 0 0402
+Added Member To Class: ClassName=FootBoard Member=Component R10 0 0402
+Added Member To Class: ClassName=FootBoard Member=Component R11 10k
+Added Member To Class: ClassName=FootBoard Member=Component R12 10k
+Added Member To Class: ClassName=FootBoard Member=Component R13 0 0402
+Added Member To Class: ClassName=FootBoard Member=Component R14 0 0402
+Added Member To Class: ClassName=FootBoard Member=Component R15 30k - 0603
+Added Member To Class: ClassName=FootBoard Member=Component R17 30k - 0603
+Added Member To Class: ClassName=FootBoard Member=Component R18 0 0402
+Added Member To Class: ClassName=FootBoard Member=Component R19 0 0402
