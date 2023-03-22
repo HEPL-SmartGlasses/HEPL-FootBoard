@@ -1,0 +1,80 @@
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=3v3 Pin=C3-2
+Removed Pin From Net: NetName=SPI2_MOSI Pin=SPI2_MISO-1
+Removed Pin From Net: NetName=SPI2_MISO Pin=SPI2_MOSI-1
+Removed Pin From Net: NetName=BAT Pin=U1-1
+Removed Pin From Net: NetName=GND Pin=U1-2
+Removed Pin From Net: NetName=BAT Pin=U1-3
+Removed Pin From Net: NetName=3v3 Pin=U1-5
+Removed Member From Class: ClassName=FootBoard Member=U1
+Change Component Comment : Designator=C1 Old Comment=10nf New Comment=1uF
+Change Component Designator: OldDesignator=C2 NewDesignator=C3
+Change Component Designator: OldDesignator=C4 NewDesignator=C2
+Change Component Designator: OldDesignator=C5 NewDesignator=C4
+Change Component Designator: OldDesignator=IC1 NewDesignator=IC2
+Change Component Designator: OldDesignator=MAG NewDesignator=MAG1
+Change Component Designator: OldDesignator=R1 NewDesignator=R4
+Change Component Designator: OldDesignator=R2 NewDesignator=R3
+Change Component Designator: OldDesignator=R3 NewDesignator=R7
+Change Component Designator: OldDesignator=R4 NewDesignator=R8
+Change Component Designator: OldDesignator=R5 NewDesignator=R9
+Change Component Designator: OldDesignator=R6 NewDesignator=R10
+Change Component Designator: OldDesignator=R7 NewDesignator=R11
+Change Component Designator: OldDesignator=R8 NewDesignator=R12
+Change Component Designator: OldDesignator=R9 NewDesignator=R13
+Change Component Designator: OldDesignator=R10 NewDesignator=R14
+Change Component Designator: OldDesignator=R11 NewDesignator=R5
+Change Component Designator: OldDesignator=R12 NewDesignator=R6
+Change Component Designator: OldDesignator=R13 NewDesignator=R15
+Change Component Designator: OldDesignator=R14 NewDesignator=R17
+Change Component Designator: OldDesignator=R15 NewDesignator=R16
+Change Component Designator: OldDesignator=R16 NewDesignator=R18
+Change Component Designator: OldDesignator=R17 NewDesignator=R19
+Change Component Designator: OldDesignator=R18 NewDesignator=R20
+Change Component Designator: OldDesignator=R19 NewDesignator=R21
+Change Component Designator: OldDesignator=R20 NewDesignator=R22
+Change Component Designator: OldDesignator=R21 NewDesignator=R23
+Change Component Designator: OldDesignator=R22 NewDesignator=R24
+Change Component Designator: OldDesignator=R23 NewDesignator=R25
+Change Component Designator: OldDesignator=R24 NewDesignator=R26
+Change Component Designator: OldDesignator=R25 NewDesignator=R27
+Change Component Designator: OldDesignator=R26 NewDesignator=R28
+Change Component Designator: OldDesignator=R27 NewDesignator=R29
+Change Component Designator: OldDesignator=R28 NewDesignator=R30
+Added Component: Designator=C5(CAPC1608X90X35ML15T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX Interconnect / Elco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0603YG105ZAT4A"; VariantName = "[No Variations]"
+Added Component: Designator=IC1(AP736533YRG13)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com//AP7365-33YRG-13.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Diodes Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AP7365-33YRG-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "621-AP7365-33YRG-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/AP7365-33YRG-13?qs=abZ1nkZpTuM6iU77d8ddPA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RESC1005X40X25NL05T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo / Phycomp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402JR-070RL"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RESC1005X40X25NL05T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo / Phycomp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402JR-070RL"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=3v3 Pin=C5-2
+Added Pin To Net: NetName=GND Pin=IC1-1
+Added Pin To Net: NetName=BAT Pin=IC1-2
+Added Pin To Net: NetName=3v3 Pin=IC1-3
+Added Pin To Net: NetName=BAT Pin=IC1-4
+Added Pin To Net: NetName=IMU_CLK Pin=R1-1
+Added Pin To Net: NetName=I2C_SDA Pin=R2-1
+Added Pin To Net: NetName=SPI2_MISO Pin=SPI2_MISO-1
+Added Pin To Net: NetName=SPI2_MOSI Pin=SPI2_MOSI-1
+Added Pin To Net: NetName=NetIC2_45 Pin=IC2-45
+Added Pin To Net: NetName=NetIC2_45 Pin=R1-2
+Added Net: Name=NetIC2_45
+Added Pin To Net: NetName=NetIC2_46 Pin=IC2-46
+Added Pin To Net: NetName=NetIC2_46 Pin=R2-2
+Added Net: Name=NetIC2_46
+Added Member To Class: ClassName=FootBoard Member=Component IC2 STM32L443CCT6
+Added Member To Class: ClassName=FootBoard Member=Component R29 10k - 0603
+Added Member To Class: ClassName=FootBoard Member=Component R30 330 0603
